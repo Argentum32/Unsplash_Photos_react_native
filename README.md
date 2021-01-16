@@ -6,6 +6,6 @@ In this app you can see random photos from Unsplash gallery, then you can press 
 
 You can see what it looks like in the screenshots
 
-![alt text](https://github.com/Argentum32/Unsplash_Photos_react_native/blob/master/start.jpg?raw=true)
-![alt text](https://github.com/Argentum32/Unsplash_Photos_react_native/blob/master/after upploading more photos.jpg?raw=true)
-![alt text](https://github.com/Argentum32/Unsplash_Photos_react_native/blob/master/full photo.jpg?raw=true)
+![Screenshot](start.jpg)
+![Screenshot](after upploading more photos.jpg)
+![Screenshot](full photo.jpg)
