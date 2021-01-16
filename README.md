@@ -7,5 +7,5 @@ In this app you can see random photos from Unsplash gallery, then you can press 
 You can see what it looks like in the screenshots
 
 ![Screenshot](assets/start.jpg)
-![Screenshot](assets/after upploading more photos.jpg)
-![Screenshot](assets/full photo.jpg)
+![Screenshot](assets/after_upploading_more_photos.jpg)
+![Screenshot](assets/full_photo.jpg)
